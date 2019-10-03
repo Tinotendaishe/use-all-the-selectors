@@ -17,3 +17,19 @@ ul, nav {
 .wrapper {
   background-color: #eee8d5;
 }
+
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
+
+.dfn:first-child {
+  background-color: #b58900;
+}
+
+p + strong {
+  color: #fff;
+}
+
+a href {
+  background-color: #719e07;
+}
