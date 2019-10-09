@@ -30,7 +30,7 @@ p + strong {
   color: #fff;
 }
 
-href {
+a href {
   background-color: #719e07;
 }
 
@@ -39,7 +39,7 @@ href {
 }
 
 ol li:first-child {
-  color: #719e07;
+  color: #719e47;
 }
 
 ol li:last-child {
