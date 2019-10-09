@@ -30,7 +30,7 @@ p + strong {
   color: #fff;
 }
 
-a href {
+a > .no-highlight {
   background-color: #719e07;
 }
 
