@@ -30,7 +30,7 @@ p + strong {
   color: #fff;
 }
 
-a > .no-highlight {
+a {
   background-color: #719e07;
 }
 
