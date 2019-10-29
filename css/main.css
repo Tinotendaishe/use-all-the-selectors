@@ -30,6 +30,10 @@ p + strong {
   color: #fff;
 }
 
+div > p {
+  background-color: #b58900;
+}
+
 a {
   background-color: #719e07;
 }
